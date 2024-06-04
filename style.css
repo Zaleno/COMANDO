@@ -1,0 +1,33 @@
+.logo{
+
+justify-content: flex-start;
+display: flex;
+padding-bottom: 3px;
+padding-top: 50px;
+
+}
+.loscuatro{
+
+    justify-content: flex-end;
+    display: flex;
+    padding-bottom: 1px;
+    padding-top: 1px;
+}
+
+.loscuatro a{
+color:red;
+text-decoration: none;
+margin-left: 30px;
+
+}
+
+.foto{
+background: 
+url("caballo.webp")
+50% / cover no-repeat;
+padding-top: 10px;
+padding-bottom: 10px;
+color: white;
+text-transform: uppercase;
+padding-left: 50px;
+} 
